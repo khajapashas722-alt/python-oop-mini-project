@@ -50,7 +50,7 @@ This project focuses on writing **clean, modular, and reusable Python code** usi
 
 1. Clone the repository:
     ```bash
-   git clone <your-repo-link>
+   git clone <https://github.com/khajapashas722-alt/python-oop-mini-project>
     ```
 2. Navigate to the project directory:
     ```bash
